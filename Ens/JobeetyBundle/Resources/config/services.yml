@@ -1,7 +1,0 @@
-parameters:
-#    ens_jobeety.example.class: Ens\JobeetyBundle\Example
-
-services:
-#    ens_jobeety.example:
-#        class: %ens_jobeety.example.class%
-#        arguments: [@service_id, "plain_value", %parameter%]
